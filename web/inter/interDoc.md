@@ -22,3 +22,10 @@ NOTE: Follow TimeStamps given in comment section to jump to specific topic
 [![CSS Tips](https://img.youtube.com/vi/Qhaz36TZG5Y/0.jpg)](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 ### JavaScript Tips
 [![JS Tips](https://img.youtube.com/vi/Mus_vwhTCq0/0.jpg)](https://www.youtube.com/watch?v=Mus_vwhTCq0)
+
+------------------------------------------------------
+### NAVIGATION MENU
+- [PREVIOUS_SECTION](../beg/begDoc.md)
+- [NEXT_SECTION](../expert/expertDoc.md)
+- [PREVIOUS_MENU](../webDev.md)
+- [MAIN_MENU](/README.md)

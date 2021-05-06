@@ -20,6 +20,7 @@ NOTE: Follow TimeStamps given in video to jump to specific topic
 ### Inspect Network Activity
 [![HTML course](https://img.youtube.com/vi/e1gAyQuIFQo/0.jpg)](https://www.youtube.com/watch?v=e1gAyQuIFQo)
 
+------------------------------------------------------
 ### NAVIGATION MENU
 - [PREVIOUS_SECTION](../inter/interDoc.md)
 - [NEXT_SECTION]

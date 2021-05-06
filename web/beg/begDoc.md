@@ -11,4 +11,10 @@ NOTE: Follow TimeStamps given in video to jump to specific topic
 NOTE: Follow TimeStamps given in comment section to jump to specific topic
 
 ## Voila! You can jump to next section now 👍
-[<-PREVIOUS PAGE](../webDev.md) <br /> [NEXT->](../inter/interDoc.md)
+
+------------------------------------------------------
+### NAVIGATION MENU
+- [PREVIOUS_SECTION]()
+- [NEXT_SECTION](../inter/interDoc.md)
+- [PREVIOUS_MENU](../webDev.md)
+- [MAIN_MENU](/README.md)
