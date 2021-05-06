@@ -14,7 +14,7 @@ NOTE: Follow TimeStamps given in comment section to jump to specific topic
 
 ------------------------------------------------------
 ### NAVIGATION MENU
-- [PREVIOUS_SECTION]()
+- PREVIOUS_SECTION
 - [NEXT_SECTION](../inter/interDoc.md)
 - [PREVIOUS_MENU](../webDev.md)
 - [MAIN_MENU](/README.md)

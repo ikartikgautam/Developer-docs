@@ -1,6 +1,9 @@
 
 ## Hi, Expert, Glad you know Web Development pretty well. Follow below links to brush up on your skills and improve them even further.
-
+### TypeScript Intro
+[![Angular](https://img.youtube.com/vi/RjqTo_dfw4w/0.jpg)](https://www.youtube.com/watch?v=RjqTo_dfw4w)
+NOTE:
+- It is not mandatory to watch this video however it is recommended to watch it to get little knowledge of typescript which is extensively used on Angular.
 ### Angular Course
 [![Angular](https://img.youtube.com/vi/2OHbjep_WjQ/0.jpg)](https://www.youtube.com/watch?v=2OHbjep_WjQ)
 
@@ -23,6 +26,6 @@ NOTE: Follow TimeStamps given in video to jump to specific topic
 ------------------------------------------------------
 ### NAVIGATION MENU
 - [PREVIOUS_SECTION](../inter/interDoc.md)
-- [NEXT_SECTION]
+- NEXT_SECTION
 - [PREVIOUS_MENU](../webDev.md)
 - [MAIN_MENU](/README.md)
