@@ -1,5 +1,5 @@
 # WEB DEVELOPMENT
 ### Choose Difficulty Level
 - [Beginner](./beg/begDoc.md)
-- [Intermediate]()
+- [Intermediate](./inter/interDoc.md)
 - [Expert]()
