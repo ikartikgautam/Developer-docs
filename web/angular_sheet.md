@@ -63,7 +63,7 @@ Angular is a little complex and very deep to understand, whereas there are a few
 
 #### BASIC
 
-1. \*ngIf
+1. \*ngIf, Else, Then
 2. \*ngFor
 3. ngClass
 4. ngStyle
@@ -79,3 +79,17 @@ Angular is a little complex and very deep to understand, whereas there are a few
 2. Promises
 3. OOPS in Angular
 4. Working with JSON data
+
+For All above mentioned topics you can refer to a really good channel, [CodeEvolution](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
+Almost all topics are Covered by him, either you can directly search for the topic in playlist or you can watch the whole playlist.
+
+Good Luck 👍
+
+---
+
+### NAVIGATION MENU
+
+- PREVIOUS_SECTION
+- NEXT_SECTION
+- [PREVIOUS_MENU](../README.md)
+- [MAIN_MENU](../README.md)
